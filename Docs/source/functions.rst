@@ -6,3 +6,4 @@ Functions
 .. toctree::
    :maxdepth: 2
 
+   get_transcript
