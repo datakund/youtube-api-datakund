@@ -8,5 +8,5 @@ Here is the code:-
 .. py:function:: youtube.video_comments()
 
    
-   :return: [{'User': 'User', 'Column A': 'Column A', 'Comment': 'Comment', 'UserLink': 'UserLink', 'Replies': 'Replies'}]
+   :return: [{'User': 'User', 'UserLink': 'UserLink', 'Comment': 'Comment'}]
    :rtype: list

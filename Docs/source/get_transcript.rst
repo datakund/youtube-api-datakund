@@ -9,5 +9,5 @@ Here is the code:-
 
    
    :param str video_url: Video url whose transcript need to be fetched
-   :return: {'Transcript': 'Transcript', 'Column A': 'Column A'}
+   :return: {'Transcript': 'Transcript'}
    :rtype: dict

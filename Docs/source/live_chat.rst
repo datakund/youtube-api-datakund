@@ -8,5 +8,5 @@ Here is the code:-
 .. py:function:: youtube.live_chat()
 
    
-   :return: [{'Message': 'Message', 'User': 'User', 'Column A': 'Column A'}]
+   :return: [{'User': 'User', 'Message': 'Message'}]
    :rtype: list
