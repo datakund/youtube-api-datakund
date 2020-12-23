@@ -19,3 +19,4 @@ Functions
    skip_ad
    live_chat
    auto_comment
+   searches
