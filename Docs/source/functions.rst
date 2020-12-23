@@ -18,3 +18,4 @@ Functions
    watch_later_videos
    skip_ad
    live_chat
+   auto_comment
