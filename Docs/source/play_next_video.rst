@@ -1,7 +1,7 @@
 **************************************************
-Play Pause Video
+Play Next Video
 **************************************************
-It play or pause the video playing currently on browser.
+It clicks on next video to play next video.
 
 **body**: returns data
 
@@ -11,7 +11,7 @@ It play or pause the video playing currently on browser.
 
 Here is the code:-
 
-.. py:function:: youtube.play_pause_video()
+.. py:function:: youtube.play_next_video()
 
    
    :return: {"body": {}, "success_score": "100", "errors": []}

@@ -1,14 +1,20 @@
 **************************************************
 Watch Video
 **************************************************
-It watch the video passed in ``video_url`` for the amount of time passed in ``time``.
+It opens the video passed in ``video_url`` and then waits for the time passed in ``time``.
+
+**body**: returns data
+
+**success_score**: api success rate
+
+**errors**: errors encountered in api 
 
 Here is the code:-
 
 .. py:function:: youtube.watch_video(time="time",video_url="video_url")
 
    
-   :param str time: Amount of time to waatch the video
-   :param str video_url: Video url which need to be watched
-   :return: {}
+   :param str time: amount of time in seconds to wait
+   :param str video_url: video which need to be opened
+   :return: {"body": {}, "success_score": "100", "errors": []}
    :rtype: dict

@@ -1,7 +1,7 @@
 **************************************************
-Play Pause Video
+Login Cookie
 **************************************************
-It play or pause the video playing currently on browser.
+It logins to youtube through the cookies passed in ``cookies``.
 
 **body**: returns data
 
@@ -11,8 +11,9 @@ It play or pause the video playing currently on browser.
 
 Here is the code:-
 
-.. py:function:: youtube.play_pause_video()
+.. py:function:: youtube.login_cookie(cookies="cookies")
 
    
+   :param str cookies: list of cookies of youtube
    :return: {"body": {}, "success_score": "100", "errors": []}
    :rtype: dict

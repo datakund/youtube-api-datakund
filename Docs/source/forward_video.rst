@@ -1,7 +1,7 @@
 **************************************************
-Play Pause Video
+Forward Video
 **************************************************
-It play or pause the video playing currently on browser.
+It forwards the video currently playing on browser with 5 seconds.
 
 **body**: returns data
 
@@ -11,7 +11,7 @@ It play or pause the video playing currently on browser.
 
 Here is the code:-
 
-.. py:function:: youtube.play_pause_video()
+.. py:function:: youtube.forward_video()
 
    
    :return: {"body": {}, "success_score": "100", "errors": []}

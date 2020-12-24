@@ -1,7 +1,7 @@
 **************************************************
-Play Pause Video
+Set Playback Speed
 **************************************************
-It play or pause the video playing currently on browser.
+It sets the playback speed passed in ``speed`` in the video currently playing on browser.
 
 **body**: returns data
 
@@ -11,8 +11,9 @@ It play or pause the video playing currently on browser.
 
 Here is the code:-
 
-.. py:function:: youtube.play_pause_video()
+.. py:function:: youtube.set_playback_speed(speed="speed")
 
    
+   :param str speed: speed to set e.g. 1.25
    :return: {"body": {}, "success_score": "100", "errors": []}
    :rtype: dict

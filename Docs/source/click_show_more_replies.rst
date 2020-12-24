@@ -1,7 +1,7 @@
 **************************************************
-Play Pause Video
+Click Show More Replies
 **************************************************
-It play or pause the video playing currently on browser.
+It will click on show more replies button in comments section.
 
 **body**: returns data
 
@@ -11,7 +11,7 @@ It play or pause the video playing currently on browser.
 
 Here is the code:-
 
-.. py:function:: youtube.play_pause_video()
+.. py:function:: youtube.click_show_more_replies()
 
    
    :return: {"body": {}, "success_score": "100", "errors": []}
