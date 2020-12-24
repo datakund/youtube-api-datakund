@@ -20,3 +20,4 @@ Functions
    live_chat
    auto_comment
    searches
+   play_pause_video
