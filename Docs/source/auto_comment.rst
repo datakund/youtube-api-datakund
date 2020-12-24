@@ -16,5 +16,5 @@ Here is the code:-
    
    :param str comment: comment which need to be typed
    :param str video_link: video url where need to post comment
-   :return: {"body":{},"success_score":"100","errors":[]}
+   :return: {"body": {}, "success_score": "100", "errors": []}
    :rtype: dict
