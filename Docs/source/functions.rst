@@ -10,7 +10,6 @@ Functions
    video_comments
    auto_like
    auto_subscribe
-   get_video
    login
    watch_video
    upload
