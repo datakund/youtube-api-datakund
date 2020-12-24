@@ -16,7 +16,6 @@ Functions
    channel_videos
    watch_later_videos
    skip_ad
-   live_chat
    auto_comment
    searches
    play_pause_video

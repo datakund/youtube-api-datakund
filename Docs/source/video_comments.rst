@@ -14,5 +14,5 @@ Here is the code:-
 .. py:function:: youtube.video_comments()
 
    
-   :return: {"body": [{'Comment': 'Comment', 'UserLink': 'UserLink', 'alltext': 'alltext', 'user': 'user', 'Time': 'Time', 'Likes': 'Likes'}], "success_score": "100", "errors": []}
+   :return: {"body": [{'Comment': 'Comment', 'UserLink': 'UserLink', 'user': 'user', 'Time': 'Time', 'Likes': 'Likes'}], "success_score": "100", "errors": []}
    :rtype: dict

@@ -14,5 +14,5 @@ Here is the code:-
 .. py:function:: youtube.search_results()
 
    
-   :return: {"body": [{'title': 'title', 'channel': 'channel', 'viewsandtime': 'viewsandtime', 'link': 'link'}], "success_score": "100", "errors": []}
+   :return: {"body": [{'viewsandtime': 'viewsandtime', 'channel': 'channel', 'title': 'title', 'link': 'link'}], "success_score": "100", "errors": []}
    :rtype: dict
