@@ -15,5 +15,5 @@ Here is the code:-
 
    
    :param str title: title of video which needs to be deleted
-   :return: {"body": [{'Column A@txt': 'Column A@txt'}], "success_score": "100", "errors": []}
+   :return: {"body": [{}], "success_score": "100", "errors": []}
    :rtype: dict

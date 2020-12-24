@@ -14,6 +14,6 @@ Here is the code:-
 .. py:function:: youtube.click_view_replies(comment="comment")
 
    
-   :param str comment: comment text whose comments need to be viewed
+   :param str comment: comment text whose replies need to be viewed
    :return: {"body": [{}], "success_score": "100", "errors": []}
    :rtype: dict

@@ -15,5 +15,5 @@ Here is the code:-
 
    
    :param str comment: comment text which need to be liked
-   :return: {"body": [{'Column A@txt': 'Column A@txt'}], "success_score": "100", "errors": []}
+   :return: {"body": [{}], "success_score": "100", "errors": []}
    :rtype: dict
