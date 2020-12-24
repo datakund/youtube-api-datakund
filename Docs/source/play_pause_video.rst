@@ -3,11 +3,9 @@ Play Pause Video
 **************************************************
 It play or pause the video playing currently on browser.
 
-``body``: returns data
-
-``success_score``: api success rate
-
-``errors``: errors encountered in api 
+**body**: returns data
+**success_score**: api success rate
+**errors**: errors encountered in api 
 
 Here is the code:-
 
@@ -15,4 +13,4 @@ Here is the code:-
 
    
    :return: {"body":{},"success_score":"100","errors":[]}
-   :rtype: returntype
+   :rtype: dict
