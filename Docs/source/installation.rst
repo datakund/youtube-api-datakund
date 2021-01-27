@@ -14,7 +14,6 @@ Creating Object
 **************************************************
 .. code-block:: python
 	
-	obj=datakund()
-	youtube=obj.youtube()
+	youtube=datakund.youtube()
 	
 It will return the object which you can further use to call youtube functions and opens a automated browser
