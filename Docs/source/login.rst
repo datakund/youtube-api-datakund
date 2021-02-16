@@ -11,7 +11,7 @@ It logins to youtube through the credentials passed in ``username`` and ``passwo
 
 Here is the code:-
 
-.. py:function:: youtube.login(username="username",password="password")
+.. py:function:: youtube.login(username="datakund@gmail.com",password="pwd@123")
 
    
    :param str username: Account Username
