@@ -11,7 +11,7 @@ It creates new playlist with the name passed in ``playlist_name`` and returns pl
 
 Here is the code:-
 
-.. py:function:: youtube.create_playlist(playlist_name="playlist_name")
+.. py:function:: youtube.create_playlist(playlist_name="DataKund")
 
    
    :param str playlist_name: name of the new playlist to create
