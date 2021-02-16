@@ -11,7 +11,7 @@ It fetches the info of channel whose link is passed in ``channel_link``.
 
 Here is the code:-
 
-.. py:function:: youtube.get_channel_info(channel_link="channel_link")
+.. py:function:: youtube.get_channel_info(channel_link="https://www.youtube.com/channel/UCM0YvsRfYfsniGAhjvYFOSA")
 
    
    :param str channel_link: channel link whose info need to be fetched
