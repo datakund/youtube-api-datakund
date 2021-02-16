@@ -11,7 +11,7 @@ It opens the video passed in ``video_url`` and then waits for the time passed in
 
 Here is the code:-
 
-.. py:function:: youtube.watch_video(time="time",video_url="video_url")
+.. py:function:: youtube.watch_video(time="120",video_url="https://www.youtube.com/watch?v=eLrJUdBHiXA&list=PLsuCfYXzi5DJfjxOmPRJIS4KLlJhAlr8P&index=1")
 
    
    :param str time: amount of time in seconds to wait
