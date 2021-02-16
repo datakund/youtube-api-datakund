@@ -11,7 +11,7 @@ It likes the video passed in ``video_url``.
 
 Here is the code:-
 
-.. py:function:: youtube.auto_like(video_url="video_url")
+.. py:function:: youtube.auto_like(video_url="https://www.youtube.com/watch?v=hPQ79rrkziM")
 
    
    :param str video_url: video link which need to be liked
