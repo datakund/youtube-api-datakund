@@ -11,7 +11,7 @@ It fetches link and title of the videos in the playlist passed in ``playlist_lin
 
 Here is the code:-
 
-.. py:function:: youtube.get_playlist_videos(playlist_link="playlist_link")
+.. py:function:: youtube.get_playlist_videos(playlist_link="https://www.youtube.com/playlist?list=PLsuCfYXzi5DJfjxOmPRJIS4KLlJhAlr8P")
 
    
    :param str playlist_link: playlist link whose videos need to be fetched
