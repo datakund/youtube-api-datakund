@@ -11,7 +11,7 @@ It uploads the video to Youtube.
 
 Here is the code:-
 
-.. py:function:: youtube.upload(title="title",video_path="video_path",kid_type="kid_type",description="description",type="type")
+.. py:function:: youtube.upload(title="Testing Upload",video_path="C:/Users/video.mp4",kid_type="Yes, it's made for kids",description="I am testing",type="Public")
 
    
    :param str title: title of video
