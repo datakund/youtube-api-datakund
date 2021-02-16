@@ -5,7 +5,7 @@ It fetches the information of video passed in ``video_url``.
 
 Here is the code:-
 
-.. py:function:: youtube.get_video(video_url="video_url")
+.. py:function:: youtube.get_video(video_url="https://www.youtube.com/watch?v=UF8uR6Z6KLc")
 
    
    :param str video_url: Video url whose information need to be fetched
