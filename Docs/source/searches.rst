@@ -11,7 +11,7 @@ It searches the keyword passed in ``keyword`` on youtube.
 
 Here is the code:-
 
-.. py:function:: youtube.search(keyword="keyword")
+.. py:function:: youtube.search(keyword="latest movies")
 
    
    :param str keyword: keyword need to be searched on youtube
