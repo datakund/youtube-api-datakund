@@ -11,7 +11,7 @@ It sets the playback speed passed in ``speed`` in the video currently playing on
 
 Here is the code:-
 
-.. py:function:: youtube.set_playback_speed(speed="speed")
+.. py:function:: youtube.set_playback_speed(speed="1.25")
 
    
    :param str speed: speed to set e.g. 1.25
