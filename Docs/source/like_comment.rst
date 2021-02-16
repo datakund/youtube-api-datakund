@@ -11,7 +11,7 @@ It likes the comment whose text is passed in ``comment``.
 
 Here is the code:-
 
-.. py:function:: youtube.like_comment(comment="comment")
+.. py:function:: youtube.like_comment(comment="Nice song")
 
    
    :param str comment: comment text which need to be liked
