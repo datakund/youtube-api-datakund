@@ -11,7 +11,7 @@ It logins to youtube through the cookies passed in ``cookies``.
 
 Here is the code:-
 
-.. py:function:: youtube.login_cookie(cookies="cookies")
+.. py:function:: youtube.login_cookie(cookies=[{"domain": ".youtube.com","expirationDate": 1676431710.556339,"hostOnly": false,"httpOnly": false,"name": "__Secure-3PAPISID","path": "/",},...])
 
    
    :param str cookies: list of cookies of youtube
