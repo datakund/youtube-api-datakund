@@ -11,7 +11,7 @@ It will click on the video whose title is passed in ``searchtext``.
 
 Here is the code:-
 
-.. py:function:: youtube.find_click_video(searchtext="searchtext")
+.. py:function:: youtube.find_click_video(searchtext="MySql DataBase Tutorials")
 
    
    :param str searchtext: title or keyword which is present in video title or description
