@@ -11,7 +11,7 @@ It will click on hide replies of the comment whose text is passed in ``comment``
 
 Here is the code:-
 
-.. py:function:: youtube.click_hide_replies(comment="comment")
+.. py:function:: youtube.click_hide_replies(comment="Nice song")
 
    
    :param str comment: comment text whose replies needs to be hide
