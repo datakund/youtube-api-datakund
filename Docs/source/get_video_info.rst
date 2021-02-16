@@ -11,7 +11,7 @@ It fetches the video info whose link is passed in ``video_url``.
 
 Here is the code:-
 
-.. py:function:: youtube.get_video_info(video_url="video_url")
+.. py:function:: youtube.get_video_info(video_url="https://www.youtube.com/watch?v=UF8uR6Z6KLc")
 
    
    :param str video_url: video url
