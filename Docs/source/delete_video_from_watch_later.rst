@@ -11,7 +11,7 @@ It deletes the video whose title is passed in ``title`` from the watch later vid
 
 Here is the code:-
 
-.. py:function:: youtube.delete_video_from_watch_later(title="title")
+.. py:function:: youtube.delete_video_from_watch_later(title="How to insert data to mysql?")
 
    
    :param str title: title of video which needs to be deleted
