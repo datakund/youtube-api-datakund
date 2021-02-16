@@ -11,7 +11,7 @@ It returns title of video passed in ``video_url``  if exists, otherwise returns 
 
 Here is the code:-
 
-.. py:function:: youtube.check_video_exists(video_url="video_url")
+.. py:function:: youtube.check_video_exists(video_url="https://www.youtube.com/watch?v=hPQ79rrkziM")
 
    
    :param str video_url: video url which need to be checked for existence
