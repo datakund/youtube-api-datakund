@@ -11,7 +11,7 @@ It fetches the transcript of the video whose link is passed in ``video_url``.
 
 Here is the code:-
 
-.. py:function:: youtube.get_transcript(video_url="video_url")
+.. py:function:: youtube.get_transcript(video_url="https://www.youtube.com/watch?v=UF8uR6Z6KLc")
 
    
    :param str video_url: video link whose transcript need to be fetched
