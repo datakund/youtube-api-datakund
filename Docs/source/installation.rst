@@ -1,19 +1,19 @@
 Installation/Usage:
 *******************
-You can find this package on Pypi (see `here <https://pypi.org/project/datakund/>`_).
+You can find this package on Pypi (see `here <https://pypi.org/project/bot-studio/>`_).
 
-Command to install :- ``pip install datakund``
+Command to install :- ``pip install bot-studio``
 
-Import datakund
+Import bot-studio
 **************************************************
 .. code-block:: python
 
-	from datakund import *
+	from bot_studio import *
 
 Creating Object
 **************************************************
 .. code-block:: python
 	
-	youtube=datakund.youtube()
+	youtube=bot_studio.youtube()
 	
 It will return the object which you can further use to call youtube functions and opens a automated browser
