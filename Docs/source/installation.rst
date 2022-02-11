@@ -21,7 +21,7 @@ It will return the object which you can further use to call youtube functions an
 Browser Options
 *****************
 
-.. list-table:: Browser Options
+.. list-table:: 
    :widths: 25 25 50
    :header-rows: 1
 
